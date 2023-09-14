@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "NGK_android_kernel_xiaomi_sdm845",
-      "repo": "https://github.com/Akitlove/NGK_android_kernel_xiaomi_sdm845",
+      "repo": "https://github.com/round123/NGK_android_kernel_xiaomi_sdm845",
       "branch": "t-caf-ksu",
       "device": "dipper",
       "defconfig": "nogravity-dipper_defconfig"
